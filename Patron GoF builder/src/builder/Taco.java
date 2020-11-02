@@ -1,6 +1,7 @@
 package builder;
 
 public class Taco {
+	//Aqui tenemos el product
 	private String base;
 	private String salsa;
 	private String ingredientes;

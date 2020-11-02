@@ -1,7 +1,7 @@
 package builder;
 
 public class Main {
-
+//En el main se acumulan todos los datos
 	public static void main(String[] args) {
 		Cook cook = new Cook();
 		TacoBuilder mexicanoB=new Mexicano();

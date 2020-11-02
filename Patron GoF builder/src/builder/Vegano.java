@@ -1,7 +1,7 @@
 package builder;
 
 public class Vegano extends TacoBuilder{
-
+	//Todos los tipos de Taco con ConcreteBuilders
 	@Override
 	public void hacerBase() {
 		this.taco.setBase("Integral");
